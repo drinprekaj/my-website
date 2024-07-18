@@ -31,6 +31,14 @@ header .location {
     font-size: 1em;
 }
 
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-right: 20px;
+    float: left;
+}
+
 nav ul {
     list-style: none;
     padding: 0;
